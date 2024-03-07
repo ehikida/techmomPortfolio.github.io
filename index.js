@@ -1,6 +1,6 @@
-const red = 203;
-const green = 149;
-const blue = 169;
+const red = 255;
+const green = 255;
+const blue = 255;
 
 const header = document.getElementById("header");
 console.log(header.innerText);
